@@ -1,3 +1,4 @@
+## Notebook VectorDB_query_RAG 
 # RAG with Pinecone and Small LLMs (CPU-friendly)
 
 This project demonstrates how to build a simple Retrieval-Augmented Generation (RAG) pipeline using:
