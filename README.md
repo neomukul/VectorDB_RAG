@@ -6,6 +6,12 @@ This project demonstrates how to build a simple Retrieval-Augmented Generation (
 Pinecone Vector Database for semantic search
 Hugging Face Embeddings to convert text into vectors
 Small LLMs (1B–2B models) that run on CPU, so anyone can practice without a GPU
+
+# app2.py
+A streamlit UI application to check the functionality of different local models.
+option to select multiple local models and different temperature settings.
+display retrieved context so we can check/compare the model temperature.
+
 # Features
 Load documents (e.g., PDF, text)
 Create a Pinecone vector index
